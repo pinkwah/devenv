@@ -142,6 +142,7 @@ in
   ++ (listEntries ./services)
   ++ (listEntries ./integrations)
   ++ (listEntries ./process-managers)
+  ++ (listEntries ./toolkits)
   ;
 
   config = {

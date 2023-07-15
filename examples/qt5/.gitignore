@@ -1,0 +1,6 @@
+*.o
+.qmake*
+Makefile
+example
+moc_*
+ui_*
